@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header_background{
+    background-color: #264653;
+}
+.head_para{
+    color: #E0E0E0;
+}
+.btn_color,.general_color{
+    color: #E76F51;
+}
+.client_color{
+    color: #23A6F0;
+}
+.client_job{
+    color: black;
+}
+
+/* grey_scale  */
+.grey_scale_img{
+    -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+}
